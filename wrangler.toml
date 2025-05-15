@@ -1,3 +1,4 @@
 name = "a-to-z-bot"
 main = "src/worker.js"
 compatibility_date = "2025-05-15"
+type = "javascript"
